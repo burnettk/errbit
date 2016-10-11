@@ -247,6 +247,8 @@ en:
       occurred: Occurred
       similar: Similar
       browser: Browser
+      graph-2-weeks: Graph (2 weeks)
+      graph-24-hours: Graph (24 hours)
       tenant: Origem
       app_server: App Server
       app_version: App Version
